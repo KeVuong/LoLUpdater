@@ -213,3 +213,8 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+*.ps1
+*.config
+*.ps1
+LoLTweakerPS4.ps1
+LoLTweaker.ps1
