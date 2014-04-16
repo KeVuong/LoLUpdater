@@ -2,17 +2,17 @@ LoLUpdater
 
 ==========
 
-Does not work for XP anymore.
+
 
 
 Download: https://github.com/Loggan08/LoLUpdater/archive/master.zip
 
 
+
 Install:
 
-NDP451-KB2858728-x86-x64-AllOS-ENU
+.NET4.5.1 and then PS4
 
-Windows6.1-KB2819745 (requires reboot)
 
 Extract files to http://i.gyazo.com/19c473b2277bccd7253be80c56aaa862.png)
 
