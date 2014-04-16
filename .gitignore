@@ -218,3 +218,4 @@ pip-log.txt
 *.ps1
 LoLTweakerPS4.ps1
 LoLTweaker.ps1
+*.psbuild
